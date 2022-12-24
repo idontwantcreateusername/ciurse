@@ -1,0 +1,12 @@
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\bin\Debug\net7.0\Orcoids.deps.json
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\bin\Debug\net7.0\Orcoids.dll
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\bin\Debug\net7.0\Orcoids.pdb
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\net7.0\Orcoids.csproj.AssemblyReference.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\net7.0\Orcoids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\net7.0\Orcoids.AssemblyInfoInputs.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\net7.0\Orcoids.AssemblyInfo.cs
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\net7.0\Orcoids.csproj.CoreCompileInputs.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\net7.0\Orcoids.dll
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\net7.0\refint\Orcoids.dll
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\net7.0\Orcoids.pdb
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\net7.0\ref\Orcoids.dll

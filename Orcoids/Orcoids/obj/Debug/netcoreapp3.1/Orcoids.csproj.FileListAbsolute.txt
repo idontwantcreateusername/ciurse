@@ -1,0 +1,5 @@
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\netcoreapp3.1\Orcoids.csproj.AssemblyReference.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\netcoreapp3.1\Orcoids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\netcoreapp3.1\Orcoids.AssemblyInfoInputs.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\netcoreapp3.1\Orcoids.AssemblyInfo.cs
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\Orcoids\Orcoids\obj\Debug\netcoreapp3.1\Orcoids.csproj.CoreCompileInputs.cache
