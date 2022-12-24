@@ -1,0 +1,21 @@
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\bin\Debug\net7.0-windows\tester 2.exe
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\bin\Debug\net7.0-windows\tester 2.deps.json
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\bin\Debug\net7.0-windows\tester 2.runtimeconfig.json
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\bin\Debug\net7.0-windows\tester 2.dll
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\bin\Debug\net7.0-windows\tester 2.pdb
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\bin\Debug\net7.0-windows\Orcoids.dll
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\bin\Debug\net7.0-windows\Orcoids.pdb
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.csproj.AssemblyReference.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester_2.Form1.resources
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester_2.Properties.Resources.resources
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.csproj.GenerateResource.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.AssemblyInfoInputs.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.AssemblyInfo.cs
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.csproj.CoreCompileInputs.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.csproj.CopyComplete
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.dll
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\refint\tester 2.dll
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.pdb
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\tester 2.genruntimeconfig.cache
+C:\Users\Михаэль Кюверофф\source\repos\Achte_praktik\Prakt8\tester 2\tester 2\obj\Debug\net7.0-windows\ref\tester 2.dll
